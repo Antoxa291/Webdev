@@ -12,7 +12,7 @@ body {
   line-height: 20px;
   font-weight: 400;
   margin: 0;
-  width: 100%;
+  width: 1600px;
 }
 
 ul {
@@ -147,7 +147,7 @@ a {
   font-size: 64px;
   letter-spacing: 4.5px;
   text-transform: uppercase;
-  margin: 20px 0;
+  margin: 25px 0;
 }
 
 .content__text {
@@ -215,7 +215,7 @@ a {
 
   flex-direction: column;
   width: 38%;
-  margin-top: 175px;
+  margin-top: 177px;
 }
 
 .inner__title {
@@ -476,7 +476,7 @@ a {
 
 .sing-up__content-input {
   display: flex;
-  width: 323px;
+  width: 326px;
   height: 43px;
 
   font-size: 14px;
@@ -542,7 +542,7 @@ a {
   display: flex;
   justify-content: space-between;
   flex-flow: row nowrap;
-  width: 190px;
+  width: 188px;
   height: 46px;
   align-items: center;
   background: var(--blue);
